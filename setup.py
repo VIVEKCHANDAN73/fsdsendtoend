@@ -21,5 +21,5 @@ setup(
     author_email='sunny.savita@ineuron.ai',
     install_requires=["scikit-learn","pandas","numpy"],
     packages=find_packages()
-
+)
 """install_requires=get_requirements('requirements.txt')"""
